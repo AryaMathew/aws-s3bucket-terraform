@@ -80,5 +80,5 @@ resource "null_resource" "remove_and_upload_to_s3" {
 
 ## Result
 
-[!image](https://paste.pics/7f41d25f8f05e537f7a8c7430b98d217)
+![image](https://paste.pics/7f41d25f8f05e537f7a8c7430b98d217)
 
