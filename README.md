@@ -1,4 +1,4 @@
-# aws-s3bucket-using-terraform
+# Aws-static website-using-terraform
 Here its a simple document on how to use Teraform to make s3-static-website
 
 ## Prerequisites
