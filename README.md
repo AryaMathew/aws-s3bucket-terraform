@@ -80,6 +80,7 @@ resource "null_resource" "remove_and_upload_to_s3" {
 
 ## Result
 
-[![image.png](https://i.postimg.cc/YC0LtM05/image.png)](https://postimg.cc/hXFtrF9s)![image](https://user-images.githubusercontent.com/94452976/145450818-57245295-5cbb-4070-80eb-5cfca97f3d2f.PNG)
+![image](https://user-images.githubusercontent.com/94452976/145450818-57245295-5cbb-4070-80eb-5cfca97f3d2f.PNG)
+[![Result.png](https://i.postimg.cc/Zngt38PF/Result.png)](https://postimg.cc/H8Qh17hV)
 
 
